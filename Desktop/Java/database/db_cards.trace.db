@@ -4,3 +4,18 @@ select card0_.id as id1_0_0_, card0_.created_at as created_2_0_0_, card0_.descri
 2022-10-08 11:20:05 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORIGIN" not found (this database is empty); SQL statement:
 select cardorigin0_.id as id1_1_0_, cardorigin0_.created_at as created_2_1_0_, cardorigin0_.creator as creator3_1_0_, cardorigin0_.description as descript4_1_0_, cardorigin0_.name as name5_1_0_, cardorigin0_.updated_at as updated_6_1_0_ from origin cardorigin0_ where cardorigin0_.id=? [42104-214]
+2022-10-10 14:46:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORIGIN" not found (this database is empty); SQL statement:
+select cardorigin0_.id as id1_1_0_, cardorigin0_.created_at as created_2_1_0_, cardorigin0_.creator as creator3_1_0_, cardorigin0_.description as descript4_1_0_, cardorigin0_.name as name5_1_0_, cardorigin0_.updated_at as updated_6_1_0_ from origin cardorigin0_ where cardorigin0_.id=? [42104-214]
+2022-10-10 14:51:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORIGIN" not found (this database is empty); SQL statement:
+select cardorigin0_.id as id1_1_0_, cardorigin0_.created_at as created_2_1_0_, cardorigin0_.creator as creator3_1_0_, cardorigin0_.description as descript4_1_0_, cardorigin0_.name as name5_1_0_, cardorigin0_.updated_at as updated_6_1_0_ from origin cardorigin0_ where cardorigin0_.id=? [42104-214]
+2022-10-10 15:39:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORIGIN" not found (this database is empty); SQL statement:
+select cardorigin0_.id as id1_1_0_, cardorigin0_.created_at as created_2_1_0_, cardorigin0_.creator as creator3_1_0_, cardorigin0_.description as descript4_1_0_, cardorigin0_.name as name5_1_0_, cardorigin0_.updated_at as updated_6_1_0_ from origin cardorigin0_ where cardorigin0_.id=? [42104-214]
+2022-10-10 15:40:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORIGIN" not found (this database is empty); SQL statement:
+select cardorigin0_.id as id1_1_0_, cardorigin0_.created_at as created_2_1_0_, cardorigin0_.creator as creator3_1_0_, cardorigin0_.description as descript4_1_0_, cardorigin0_.name as name5_1_0_, cardorigin0_.updated_at as updated_6_1_0_ from origin cardorigin0_ where cardorigin0_.id=? [42104-214]
+2022-10-10 15:45:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ORIGIN" not found (this database is empty); SQL statement:
+select cardorigin0_.id as id1_1_0_, cardorigin0_.created_at as created_2_1_0_, cardorigin0_.creator as creator3_1_0_, cardorigin0_.description as descript4_1_0_, cardorigin0_.name as name5_1_0_, cardorigin0_.updated_at as updated_6_1_0_ from origin cardorigin0_ where cardorigin0_.id=? [42104-214]

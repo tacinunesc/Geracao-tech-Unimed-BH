@@ -1,14 +1,14 @@
 package com.ame.cartApi.service;
 
-
-import  com.ame.cartApi.repository.CardOriginRepository;
+import com.ame.cartApi.repository.CardOriginRepository;
 import com.ame.cartApi.controller.request.CreateCardOriginRequest;
-import  com.ame.cartApi.exception.EntityNotFoundException;
-import  com.ame.cartApi.model.CardOrigin;
+import com.ame.cartApi.exception.EntityNotFoundException;
+import com.ame.cartApi.model.CardOrigin;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
+
 @Service
 public class CardOriginService {
     private final CardOriginRepository cardOriginRepository;

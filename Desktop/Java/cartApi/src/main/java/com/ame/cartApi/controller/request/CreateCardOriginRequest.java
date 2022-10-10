@@ -1,4 +1,5 @@
 package com.ame.cartApi.controller.request;
+
 public class CreateCardOriginRequest {
     private String name;
 
